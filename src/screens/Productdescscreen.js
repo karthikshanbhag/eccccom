@@ -7,7 +7,7 @@ export default function Productdescscreen({match}) {
   return (
     <div>
         <h1>ujihsdgfiogqwadof</h1>
-        <h1>{disp.name}</h1>
+        <h1>{product.name}</h1>
        {/* <h1>{ide}</h1>  */}
     </div>
   )
